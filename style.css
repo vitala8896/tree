@@ -1,0 +1,16 @@
+.container {
+    width: 750px;
+    margin: 20px auto;
+    padding: 30px;
+    font-size: 26px;
+    background-color: rgb(201, 201, 201);
+}
+.inputs{
+    margin: 50px;
+}
+#inp_range{
+    margin: 0px 0px 0px 50px;
+}
+td {
+    width: 2px;
+}
